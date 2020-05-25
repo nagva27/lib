@@ -1,0 +1,5 @@
+C:\Users\Nagval\source\repos\ThroughTheMultiverse\obj\Debug\ds.test.impl.csprojAssemblyReference.cache
+C:\Users\Nagval\source\repos\ThroughTheMultiverse\bin\Debug\lib.dll
+C:\Users\Nagval\source\repos\ThroughTheMultiverse\bin\Debug\lib.pdb
+C:\Users\Nagval\source\repos\ThroughTheMultiverse\obj\Debug\lib.dll
+C:\Users\Nagval\source\repos\ThroughTheMultiverse\obj\Debug\lib.pdb
